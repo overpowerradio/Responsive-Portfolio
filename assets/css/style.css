@@ -244,7 +244,7 @@ input[type=submit] {
   border: 0 none;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 980px) {
   /* The body's bg color will be #333 */
   	#masthead {
   		position: static;
